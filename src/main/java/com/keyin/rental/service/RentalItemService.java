@@ -1,7 +1,7 @@
 package com.keyin.rental.service;
 
-import com.keyin.entity.RentalItem;
-import com.keyin.exception.ResourceNotFoundException;
+import com.keyin.rental.entity.RentalItem;
+import com.keyin.rental.exception.ResourceNotFoundException;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

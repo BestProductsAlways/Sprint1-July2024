@@ -1,6 +1,6 @@
 package com.keyin.rental.service;
 
-import com.keyin.entity.City;
+import com.keyin.rental.entity.City;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

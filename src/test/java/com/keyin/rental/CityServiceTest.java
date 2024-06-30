@@ -1,8 +1,8 @@
 package com.keyin.rental;
 
 
-import com.keyin.entity.City;
-import com.keyin.service.CityService;
+import com.keyin.rental.entity.City;
+import com.keyin.rental.service.CityService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

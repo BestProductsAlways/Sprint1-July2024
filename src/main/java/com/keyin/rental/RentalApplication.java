@@ -1,4 +1,5 @@
-package com.keyin;
+package com.keyin.rental;
+
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

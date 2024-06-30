@@ -1,12 +1,13 @@
 package com.keyin.rental.controller;
 
-import com.keyin.entity.Customer;
-import com.keyin.service.CustomerService;
+
+import com.keyin.rental.entity.Customer;
+import com.keyin.rental.service.CustomerService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import java.util.List;
+        import java.util.List;
 import java.util.Optional;
 
 @RestController

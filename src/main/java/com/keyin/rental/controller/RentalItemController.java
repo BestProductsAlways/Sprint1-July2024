@@ -1,7 +1,7 @@
 package com.keyin.rental.controller;
 
-import com.keyin.entity.RentalItem;
-import com.keyin.service.RentalItemService;
+import com.keyin.rental.entity.RentalItem;
+import com.keyin.rental.service.RentalItemService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
@@ -55,4 +55,3 @@ public class RentalItemController {
         }
     }
 }
-
